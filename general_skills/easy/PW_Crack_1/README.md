@@ -1,6 +1,6 @@
 # Overview
 
-#### We are now on `Problem set 2`, and there's `PW Crack 1` and `PW Crack 2`. We will solve the first one. The code seems okay and seems to need some fixing.
+#### We are now on `Problem set 2`, and there's `PW Crack 1` and `PW Crack 2`. We will solve the first one. The typical `crackme` challenge but in `Python` and it's quite simple. Just basic knowledge about [if-else statements](https://www.geeksforgeeks.org/python/python-if-else/) in `Python` is required to solve this challenge.
 
 > *level1.py with **line numbers**:*
 ```

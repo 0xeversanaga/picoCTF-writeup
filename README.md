@@ -11,7 +11,7 @@
 | ------------- |:-------------:|:-------------:|:-------------:|
 |[Binary Exploitation](https://github.com/0xeversanaga/picoCTF-writeup/tree/main/binary_exploitation)| **3 / 4**     | **3 / 38**     | **1 / 34**   |
 |[Reverse Engineering](https://github.com/0xeversanaga/picoCTF-writeup/tree/main/reverse_engineering)| **1 / 3**    | **5 / 64**    | **2 / 35**    |
-|[General Skills](https://github.com/0xeversanaga/picoCTF-writeup/tree/main/general_skills)| **14 / 48**    | **2 / 25**    | **3 / 0**     |
+|[General Skills](https://github.com/0xeversanaga/picoCTF-writeup/tree/main/general_skills)| **14 / 48**    | **2 / 25**    | **0 / 2**     |
 |**Blockchain**	     | **0 / 0**  | **0 / 0**  | **0 / 0**  |
 |**Cryptography**    | **0 / 0**  | **0 / 0**  | **0 / 0**  |
 |**Forensics**       | **0 / 0**  | **0 / 0**  | **0 / 0**  |

@@ -15,7 +15,7 @@
 |**Blockchain**|**0 / 0**|**0 / 2**|**0 / 2**|**0 / 4**|**[----------]**|
 |**Cryptography**|**0 / 8**|**0 / 45**|**0 / 30**|**0 / 83**|**[----------]**|
 |**Forensics**|**0 / 14**|**0 / 55**|**0 / 17**|**0 / 86**|**[----------]**|
-|**Web Exploitation**|**0 / 20**|**0 / 47**|**0 / 16**|**0 / 83**|**[----------]**|
+|**Web Exploitation**|**1 / 20**|**0 / 47**|**0 / 16**|**1 / 83**|**[#---------]**|
 
 ## Binary Exploitation
 - [Easy](https://github.com/0xeversanaga/picoCTF-writeup/tree/main/binary_exploitation/easy)

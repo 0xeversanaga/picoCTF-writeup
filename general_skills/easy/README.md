@@ -15,3 +15,4 @@
 * Piece by Piece
 * MultiCode
 * FANTASY CTF
+* Log Hunt

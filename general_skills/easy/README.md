@@ -17,3 +17,4 @@
 * FANTASY CTF
 * Log Hunt
 * ping-cmd
+* repetitions

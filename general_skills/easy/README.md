@@ -19,3 +19,4 @@
 * ping-cmd
 * repetitions
 * Blame Game
+* Binary Search

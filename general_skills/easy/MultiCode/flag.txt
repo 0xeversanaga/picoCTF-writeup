@@ -1,0 +1,1 @@
+picoCTF{nested_enc0ding_481f064c}

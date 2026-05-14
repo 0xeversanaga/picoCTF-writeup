@@ -16,3 +16,4 @@
 * MultiCode
 * FANTASY CTF
 * Log Hunt
+* ping-cmd

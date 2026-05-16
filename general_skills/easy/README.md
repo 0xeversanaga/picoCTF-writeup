@@ -26,3 +26,4 @@
 * Tab, Tab, Attack
 * First Grep
 * First Find
+* Big Zip

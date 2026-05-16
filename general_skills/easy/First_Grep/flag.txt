@@ -1,0 +1,1 @@
+picoCTF{grep_is_good_to_find_things_9C6Ef2F7}

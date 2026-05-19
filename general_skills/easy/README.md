@@ -28,3 +28,4 @@
 * First Find
 * Big Zip
 * Statis aint always noise
+* strings it
